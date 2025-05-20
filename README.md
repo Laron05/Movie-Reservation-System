@@ -10,7 +10,7 @@ Should be able to allow users choose their preferred sitting position among thos
 4. Users service
 Users should be able to have a space where their past reservation data is stored.
 
-# Framework Used
+## Framework Used
 1. Laravel
-# Database
+## Database
 1. PostgreSQL
